@@ -1,1 +1,3 @@
 Seting up working dir...
+
+User uploads OR records audio -> Convert into fingerprint -> Find matches in DB -> Return song 
